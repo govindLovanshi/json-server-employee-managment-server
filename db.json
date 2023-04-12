@@ -1,0 +1,29 @@
+{
+    "posts": [
+      {
+        "firstName": "govind",
+        "lastName": "lowanshi",
+        "birthday": "2002-10-22",
+        "gender": "m",
+        "education": "post graduate",
+        "company": "geexu",
+        "jobExperience": 2,
+        "salary": 23,
+        "profile": "images1.png",
+        "id": 1
+      },
+      {
+        "firstName": "abhishek",
+        "lastName": "chavan",
+        "birthday": "2010-06-11",
+        "gender": "m",
+        "education": "post graduate",
+        "company": "geexu",
+        "jobExperience": 4,
+        "salary": 3,
+        "profile": "images1.png",
+        "id": 2
+      }
+    ]
+    
+  }
